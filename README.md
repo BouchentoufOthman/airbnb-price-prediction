@@ -11,7 +11,7 @@ Rayan CHENNOUF
 
 ## Dataset
 The dataset used is the Airbnb listings dataset.  
-Download link: [[Insert dataset link here](https://insideairbnb.com/fr/get-the-data/)]
+Download link: [[Dtaset link](https://insideairbnb.com/fr/get-the-data/)]
 Parse to Paris dataset part
 
 ## Requirements
