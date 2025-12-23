@@ -3,7 +3,7 @@
 ## Project Description
 This project predicts Airbnb listing prices using various machine learning models.  
 It explores the impact of listing features on pricing and evaluates different regression models for best performance.
-This project was done part of our Machine Learning course 
+This project was done part of our Machine Learning course.
 Done by:
 Othman Bouchentouf 
 Raphaël CEBE
